@@ -15,7 +15,8 @@
     align-items: center;
 }
 
-span {
+.author {
 	text-align:right;
 	font-style:italic;
+	
 }
